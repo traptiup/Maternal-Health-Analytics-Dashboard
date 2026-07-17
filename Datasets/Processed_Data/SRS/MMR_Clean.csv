@@ -1,0 +1,25 @@
+State_Group,MMR,CI_Lower,CI_Upper,Maternal_Mortality_Rate,Lifetime_Risk_Pct
+INDIA,87,78,95,5,0.18
+Assam,84,35,134,5,0.17
+Bihar,96,62,130,9,0.32
+Jharkhand,82,29,136,6,0.2
+Madhya Pradesh,135,93,176,11,0.38
+Chhattisgarh,124,48,199,9,0.31
+Odisha,124,74,175,7,0.24
+Rajasthan,87,51,124,7,0.25
+Uttar Pradesh,154,115,192,13,0.44
+Uttarakhand,99,52,146,6,0.21
+EAG AND ASSAM SUBTOTAL,116,101,131,9,0.3
+Andhra Pradesh,39,9,69,2,0.07
+Telangana,48,8,89,3,0.09
+Karnataka,73,37,108,3,0.12
+Kerala,24,0,50,1,0.04
+Tamil Nadu,25,3,46,1,0.04
+SOUTH SUBTOTAL,41,27,55,2,0.07
+Gujarat,64,33,95,4,0.14
+Haryana,94,47,141,6,0.22
+Maharashtra,37,14,61,2,0.07
+Punjab,77,23,132,4,0.13
+West Bengal,94,56,132,4,0.15
+Other states,84,62,107,4,0.14
+OTHER SUBTOTAL,75,62,88,4,0.13

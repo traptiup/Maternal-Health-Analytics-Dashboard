@@ -1,0 +1,9 @@
+Age_Group,Maternal_Deaths_Pct,Maternal_CI_Lower,Maternal_CI_Upper,NonMaternal_Deaths_Pct,NonMaternal_CI_Lower,NonMaternal_CI_Upper
+15-19,5,3.0,7.0,9,8.0,9.0
+20-24,30,26.0,35.0,12,11.0,12.0
+25-29,36,31.0,41.0,12,11.0,12.0
+30-34,18,14.0,22.0,12,12.0,13.0
+35-39,8,5.0,10.0,14,14.0,15.0
+40-44,2,1.0,3.0,17,16.0,18.0
+45-49,1,0.0,2.0,24,23.0,25.0
+15-49_Total,100,,,100,,

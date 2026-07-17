@@ -1,0 +1,38 @@
+S_No,State_UT,IMR_Total,IMR_Rural,IMR_Urban
+1,Andhra Pradesh,24,26,18
+2,Arunachal Pradesh,21,22,13
+3,Assam,36,39,17
+4,Bihar,27,27,25
+5,Chhattisgarh,38,40,31
+6,Goa,5,7,3
+7,Gujarat,23,27,17
+8,Haryana,28,31,23
+9,Himachal Pradesh,17,18,15
+10,Jharkhand,25,26,21
+11,Karnataka,19,21,16
+12,Kerala,6,4,9
+13,Madhya Pradesh,43,47,30
+14,Maharashtra,16,20,11
+15,Manipur,6,6,5
+16,Meghalaya,29,30,16
+17,Mizoram,3,3,3
+18,Nagaland,4,7,NA
+19,Odisha,36,37,28
+20,Punjab,18,19,17
+21,Rajasthan,32,35,23
+22,Sikkim,5,8,1
+23,Tamil Nadu,13,15,10
+24,Telangana,21,24,17
+25,Tripura,18,18,17
+26,Uttarakhand,24,25,24
+27,Uttar Pradesh,38,40,28
+28,West Bengal,19,19,17
+29,Andaman & Nicobar Islands,7,7,6
+30,Chandigarh,8,9,8
+31,Dadra & Nagar Haveli and Daman & Diu,16,15,11
+32,Delhi,12,20,12
+33,Jammu & Kashmir,17,18,13
+34,Ladakh,16,17,12
+35,Lakshadweep,9,19,5
+36,Puducherry,6,8,5
+,All India,28,31,19
